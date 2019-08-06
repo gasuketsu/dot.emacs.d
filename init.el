@@ -7,7 +7,7 @@
 (setq inhibit-startup-message t)
 
 ;; Colortheme
-(load-theme 'monokai t)
+(load-theme 'gruvbox-dark-medium t)
 
 ;;; Editor configurations
 ;; No backup, no autosave
